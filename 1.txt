@@ -4,3 +4,7 @@ function localzsc(){}
 //张三加了一个公共的方法
 function test(){}
 
+function zsc(){
+    
+}
+
